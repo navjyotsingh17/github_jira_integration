@@ -33,7 +33,7 @@ The project is intended as a practical example of API automation and showcases h
 ## Project Structure
 
 ```text
-jira-api-automation/
+github_jira_integration/
 │
 ├── main.py              # Main application
 ├── .env                 # Environment variables (not committed)
@@ -61,7 +61,7 @@ Before running the project, ensure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/jira-api-automation.git
+git clone https://github.com/<your-username>/github_jira_integration.git
 cd jira-api-automation
 ```
 
