@@ -62,7 +62,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/<your-username>/github_jira_integration.git
-cd jira-api-automation
+cd github_jira_integration
 ```
 
 Install the required dependencies:
